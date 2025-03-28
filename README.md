@@ -1,4 +1,4 @@
-![H S 3 calc](https://github.com/user-attachments/assets/3dcaa20a-42df-4554-95d1-6e8886b196a6)## **Hamming-Shannon_fano**
+## **Hamming-Shannon_fano**
 ## **Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} for its output.** 
 ## **Apply the Huffman and Shannon-Fano to this source.** 
 ## **Show that draw the tree diagram, the average code word length, Entropy, Variance, Redundancy, Efficiency.**
